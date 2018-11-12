@@ -1,6 +1,7 @@
 # Predicting Reviews Using NPL - Classification
 
 This project is a case study of my Machine Learning for Data Science in Federal University of Santa Maria - Brazil.
+The dataset of this project is from: https://www.superdatascience.com/
 
 To run this project:
 1. Anaconda Navigator for Python 3
